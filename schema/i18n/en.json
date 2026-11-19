@@ -1,0 +1,8 @@
+{
+  "plugin.westcn-dns.name": "West.cn",
+  "plugin.westcn-dns.description": "ACME DNS-01 via West.cn.",
+  "plugin.westcn-dns.access.username.label": "West.cn agent username",
+  "plugin.westcn-dns.access.username.placeholder": "Please enter West.cn agent username",
+  "plugin.westcn-dns.access.apiPassword.label": "West.cn agent API password",
+  "plugin.westcn-dns.access.apiPassword.placeholder": "Please enter West.cn agent API password"
+}

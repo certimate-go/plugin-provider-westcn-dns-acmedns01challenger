@@ -1,0 +1,8 @@
+{
+  "plugin.westcn-dns.name": "西部数码",
+  "plugin.westcn-dns.description": "通过 西部数码 完成 ACME DNS-01 验证。",
+  "plugin.westcn-dns.access.username.label": "西部数码代理商用户名",
+  "plugin.westcn-dns.access.username.placeholder": "请输入西部数码代理商用户名",
+  "plugin.westcn-dns.access.apiPassword.label": "西部数码代理商 API 密码",
+  "plugin.westcn-dns.access.apiPassword.placeholder": "请输入西部数码代理商 API 密码"
+}

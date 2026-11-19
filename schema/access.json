@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "westcn",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "username",
+        "valueType": "text",
+        "labelKey": "plugin.westcn-dns.access.username.label",
+        "placeholderKey": "plugin.westcn-dns.access.username.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiPassword",
+        "valueType": "secret",
+        "labelKey": "plugin.westcn-dns.access.apiPassword.label",
+        "placeholderKey": "plugin.westcn-dns.access.apiPassword.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
